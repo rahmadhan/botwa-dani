@@ -14,7 +14,7 @@ const donasi = require("./lib/donasi.js");
 const info = require("./lib/info.js");
 /////////////////
 const BotName = 'DANI BOT :V '; 
-const instagram = 'https://instagram.com/reuz.id'; 
+const instagram = 'https://instagram.com/rahmadanireal'; 
 const telegram = 'https://t.me/inidanii'; 
 const kapanbotaktif = 'KETIKA HANYA DIAKTIFKAN'; 
 const youtube = 'https://www.youtube.com/c/gaada;( )';
